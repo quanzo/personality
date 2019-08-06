@@ -24,6 +24,8 @@ export default class Uploader {
     ajax.transport({
       url: this.config.endpoint,
       accept: this.config.types,
+      headers: this.config.additionalRequestHeaders,
+      data: this.config.additionalRequestData,
       beforeSend: (files) => {
         const reader = new FileReader();
 

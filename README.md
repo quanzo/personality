@@ -77,6 +77,8 @@ Personality Tool supports these configuration parameters:
 | namePlaceholder | `string` | (default: `Name`) Placeholder for name field |
 | descriptionPlaceholder | `string` | (default: `Description`) Placeholder for description field |
 | linkPlaceholder | `string` | (default: `Link`) Link field placeholder |
+| additionalRequestData | `object` | (default: null) Ajax request additiobal parameters |
+| additionalRequestHeaders | `object` | (default: null) Ajax request additiobal headers |
 
 ## Output data
 
