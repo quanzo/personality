@@ -1,6 +1,6 @@
 {
-  "name": "@editorjs/personality",
-  "version": "2.0.1",
+  "name": "@quanzo/personality",
+  "version": "1.0.0",
   "description": "Personality tool for Editor.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/editor-js/personality.git"
+    "url": "git+https://github.com/quanzo/personality.git"
   },
   "author": {
-    "name": "CodeX",
-    "email": "team@codex.so"
+    "name": "Quanzo",
+    "email": "iquanzo@gmail.com"
   },
   "main": "./dist/bundle.js",
   "keywords": [
@@ -25,9 +25,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/editor-js/personality/issues"
+    "url": "https://github.com/quanzo/personality/issues"
   },
-  "homepage": "https://github.com/editor-js/personality#readme",
+  "homepage": "https://github.com/quanzo/personality#readme",
   "devDependencies": {
     "@codexteam/ajax": "^4.0.1",
     "css-loader": "^3.1.0",

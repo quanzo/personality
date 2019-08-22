@@ -21,13 +21,13 @@ You can get the package using any of these ways.
 Get the package
 
 ```shell
-npm i --save-dev @editorjs/personality
+npm i --save-dev @quanzo/personality
 ```
 
 Include module at your application
 
 ```javascript
-const Personality = require('@editorjs/personality');
+const Personality = require('@quanzo/personality');
 ```
 
 ### Download to your project's source dir
@@ -37,9 +37,9 @@ const Personality = require('@editorjs/personality');
 
 ### Load from CDN
 
-You can load specific version of package from [jsDelivr CDN](https://cdn.jsdelivr.net/npm/@editorjs/personality@2.0.0).
+You can load specific version of package from [jsDelivr CDN](https://cdn.jsdelivr.net/npm/@quanzo/personality@2.0.0).
 
-`https://cdn.jsdelivr.net/npm/@editorjs/personality@2.0.0`
+`https://cdn.jsdelivr.net/npm/@quanzo/personality@2.0.0`
 
 Then require this script on page with Editor.js through the `<script src=""></script>` tag.
 
